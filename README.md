@@ -2,7 +2,7 @@
 The "Gold Jewellery Price Predictor" is an interactive web application designed to estimate the price of gold jewelry items based on user-provided details. The application leverages Machine Learning techniques to generate predictions, offering users insights into the potential cost of their desired gold jewelry piece.
 Functionality:
 
-###User Interface:
+### User Interface:
 
 The project's main interface is a web page that opens in a browser.
 The page layout utilizes Bootstrap components and styles for a responsive and visually appealing design.
@@ -24,12 +24,12 @@ Machine Learning Model:
 Behind the scenes, the project employs a Machine Learning model, to predict the price of the gold jewelry based on the provided attributes.
 This model is trained using historical data that correlates features like weight, carat, color, and hallmark status with jewelry prices.
 
-###Prediction Display:
+### Prediction Display:
 
 Once the prediction is calculated, the estimated price is displayed on the web page.
 The predicted price is dynamically updated without requiring a page refresh, providing immediate feedback to the user.
 
-###Workflow:
+### Workflow:
 
 A user visits the web page titled "Gold Jewellery Price Predictor."
 They are greeted with a welcoming header and a brief explanation of the application's purpose.
